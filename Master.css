@@ -1,0 +1,22 @@
+header h1 {
+  background: #000;
+  height: 72px;
+  width: 100%;
+}
+
+#Titulo {
+  text-align: center;
+  padding: 36px;
+  color: #fff;
+  font-family: serif;
+}
+footer {
+  background-color: #AB3;
+  width: 100%;
+  height: 70px;
+
+}
+footer li {
+  list-style-type: none;
+  padding: 20px;
+}
